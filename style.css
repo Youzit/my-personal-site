@@ -455,7 +455,7 @@ body:has(.algorithm-list) {
 /* 全站壁纸 */
 body {
     background-color: #eaf0ec;
-    background-image: url("./images/background.png");
+    background-image: url("./background.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
